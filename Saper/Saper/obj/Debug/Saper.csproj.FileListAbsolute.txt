@@ -1,0 +1,11 @@
+c:\users\maciej\source\repos\Saper\Saper\bin\Debug\Saper.exe.config
+c:\users\maciej\source\repos\Saper\Saper\bin\Debug\Saper.exe
+c:\users\maciej\source\repos\Saper\Saper\bin\Debug\Saper.pdb
+c:\users\maciej\source\repos\Saper\Saper\obj\Debug\Saper.csprojResolveAssemblyReference.cache
+c:\users\maciej\source\repos\Saper\Saper\obj\Debug\Saper.FieldPanel.resources
+c:\users\maciej\source\repos\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+c:\users\maciej\source\repos\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+c:\users\maciej\source\repos\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+c:\users\maciej\source\repos\Saper\Saper\obj\Debug\Saper.exe
+c:\users\maciej\source\repos\Saper\Saper\obj\Debug\Saper.pdb
+c:\users\maciej\source\repos\Saper\Saper\obj\Debug\Saper.MainForm.resources
